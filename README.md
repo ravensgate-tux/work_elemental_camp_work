@@ -6,7 +6,7 @@
 
 ---
 
-## 🌍 Earth — Page of Pentacles（土・地のワーク）
+## 🌍 Earth — Page of Pentacles（地のワーク）
 - キャンプ場で**小石を一つ**見つけて、手のひらにのせます。
 - **Page of Pentacles のカード**をじっくり観察し、目を閉じてもはっきり思い出せるようにします。
 - 石に向かって**言葉にならない言葉（ジベリッシュ）や心の中で語りかけ**てみましょう。
@@ -59,6 +59,13 @@
 
 目を閉じ、しばらくその感覚に身を委ねてください。
 
+---
+
+## 📚 関連文書（Related Works）
+
+- `work_the_moon_hekate.md`：ヘカテのアゾートを受信する儀式[🔗 work_the_moon_hekate.md](https://github.com/ravensgate-tux/work_the_moon_hekate/blob/main/README.md)
+- この「アゾート（Azoth）」とは、ヘカテと繋がるための霊的な光線のようなもので、現代的には非二次元的・全方位的な明晰さをもたらす通信プロトコルと捉えることができます。
+  
 ---
 
 ## 📋 License
