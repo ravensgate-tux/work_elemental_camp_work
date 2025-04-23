@@ -69,7 +69,6 @@
 ---
 
 ## 📋 License
-This work is part of the Open Source Witchcraft project.  
-Distributed under Creative Commons BY-SA 4.0 License.
 
-GitHub: https://github.com/ravensgate-tux
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
